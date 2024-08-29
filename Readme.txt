@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Flattern
-Template URL: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+URL: https://frims.go.ke
+Designer and Developer: Allan Benjamin Juma
